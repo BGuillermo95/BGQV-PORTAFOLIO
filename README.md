@@ -1,2 +1,2 @@
 # BGQV-PORTAFOLIO
-Este es mi Portafolio (CV)
+Este es mi Portafolio Web
